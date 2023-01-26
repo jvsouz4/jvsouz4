@@ -2,7 +2,7 @@
 
 #### Atualmente, sou estudante de engenharia da computação na Universidade Federal do Rio Grande do Norte (UFRN), trabalho desempenhando função de suporte na empresa Rede Mais Você e no meu tempo livre tenho me dedicado a estudar programação.
 
-##
+  ##
 <div height="100%">
   <a href="https://github.com/jvsouz4">
   
@@ -11,6 +11,16 @@
 </div>
 
 ![Snake animation](https://github.com/jvsouz4/jvsouz4/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
+<div class="social-icons mb-2">
+   <a href="https://instagram.com/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:joaovsouz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/jvsouz4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://cursos.alura.com.br/user/jvsouz4"><img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" target="_blank"></a>
+</div>
 
 
 
