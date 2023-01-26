@@ -1,13 +1,18 @@
-### Hi there 👋
+### Olá! Me chamo João Victor 👋
+
+#### Atualmente, sou estudante de engenharia da computação na Universidade Federal do Rio Grande do Norte (UFRN), trabalho desempenhando função de suporte na empresa Rede Mais Você e no meu tempo livre tenho me dedicado a estudar programação.
+
+##
+<div height="100%">
+  <a href="https://github.com/jvsouz4">
+  
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=jvsouz4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
+  
+</div>
 
 ![Snake animation](https://github.com/jvsouz4/jvsouz4/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-  <a href="https://github.com/jvsouz4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsouz4&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsouz4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsouz4&show_icons=true&theme=dracula"/>
-</div>
+
 
 <!--
 **jvsouz4/jvsouz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
