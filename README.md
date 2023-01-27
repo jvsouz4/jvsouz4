@@ -1,6 +1,6 @@
 ### Olá! Me chamo João Victor 👋
 
-#### Atualmente, sou estudante de engenharia da computação na Universidade Federal do Rio Grande do Norte (UFRN), trabalho desempenhando função de suporte na empresa Rede Mais Você e no meu tempo livre tenho me dedicado a estudar programação.
+#### Atualmente, sou estudante de ciências e tecnologia na Universidade Federal do Rio Grande do Norte (UFRN), trabalho desempenhando função de suporte na empresa Rede Mais Você e no meu tempo livre tenho me dedicado a estudar programação.
 
   ##
 <div height="100%">
