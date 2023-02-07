@@ -15,7 +15,7 @@
 <div>
    <a href="https://instagram.com/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:joaovsouz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/jvsouz4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://cursos.alura.com.br/user/jvsouz4"><img style="width: 30px; height:30px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" target="_blank"></a>
+  <a href="https://cursos.alura.com.br/user/jvsouz4" target="_blank"><img style="width: 30px; height:30px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" target="_blank"></a>
 </div>
