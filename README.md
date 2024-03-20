@@ -1,21 +1,11 @@
-### Olá! Me chamo João Victor 👋
+## Olá! Me chamo João Victor 👋
 
-#### Sou estudante de ciências e tecnologia na Universidade Federal do Rio Grande do Norte (UFRN), trabalho desempenhando função de desenvolvedor na empresa Beyond Tecnologia e no tempo livre estou aprofundando meu conhecimento em programação.
+Sou graduando de ciências e tecnologia na Universidade Federal do Rio Grande do Norte ([UFRN](https://www.ufrn.br/)), trabalho desempenhando função de desenvolvedor na empresa [Beyond Tecnologia](http://www.beyondtecnologia.com.br/) e no tempo livre estou aprofundando meu conhecimento na área da programação.
 
-  ##
+A experiência de mergulhar no mundo da tecnologia é verdadeiramente inspiradora. Cada descoberta, cada desafio superado, alimenta minha motivação diária. É como se eu estivesse navegando em um oceano de inovação, sempre em busca de um novo projeto, de uma ideia que possa transformar o mundo.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsouz4&layout=compact&langs_count=7&theme=tokyonight"/>  
   
-<div height="100%">
-  <a href="https://github.com/jvsouz4">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=jvsouz4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsouz4&layout=compact&langs_count=7&theme=tokyonight"/>  
-</div>
-  
-  ##
-  
-<div>
-   <a href="https://instagram.com/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaovsouz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jvsouz4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://cursos.alura.com.br/user/jvsouz4" target="_blank"><img style="width: 30px; height:30px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" target="_blank"></a>
-</div>
+[![Instagram Badge](https://img.shields.io/badge/@João%20Souza-252525?style=flat-square&labelColor=252525&logo=instagram&logoColor=white&link=https://www.instagram.com/jvsouz4)](https://www.instagram.com/jvsouz4)
+[![Linkedin Badge](https://img.shields.io/badge/jvsouz4-252525?style=flat-square&labelColor=252525&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jvsouz4/)](https://www.linkedin.com/in/jvsouz4/)
+[![Gmail Badge](https://img.shields.io/badge/joaovsouz-252525?style=flat-square&labelColor=252525&logo=gmail&logoColor=white&link=mailto:joaovsouz@gmail.com)](mailto:joaovsouz@gmail.com)
